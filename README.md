@@ -1,6 +1,5 @@
 # SICMDP
-Liangyu Zhang · Yang Peng · Wenhao Yang · Zhihua Zhang
-Semi-infinitely Constrained Markov Decision Processes. NeurIPS 2022
+Liangyu Zhang, Yang Peng, Wenhao Yang, Zhihua Zhang. Semi-infinitely Constrained Markov Decision Processes. NeurIPS 2022.
 
 ## Requirements
 
